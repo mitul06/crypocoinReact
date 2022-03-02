@@ -1,3 +1,12 @@
+#created task using this packges
+1. React 
+2. React-Redux
+3. React-saga
+4. bootstrap
+5. coinmarketcap api
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
